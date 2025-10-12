@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/USvO173G/raw"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BrainrottScript/gui/refs/heads/main/lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNews/sab-script-466e31/main/2341c827712daf923191e93377656f67.lua"))()
